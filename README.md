@@ -18,4 +18,4 @@ The dashboard includes:
 - Insights on employee demographics, tenure, job roles, satisfaction levels, and other workplace factors contributing to turnover.  
 - Data-driven decisions to improve retention strategies and workplace policies.  
 
-![HR Analysis Dashboard]([images/hr_dashboard.png](https://github.com/RohitPhatangare23/Data_Analyst_Project/blob/master/PowerBI_Dashboard/HR_Analytics_Dashboard_page.jpg))  
+![HR Analysis Dashboard]([[https://github.com/RohitPhatangare23/Data_Analyst_Project/blob/master/PowerBI_Dashboard/HR_Analytics_Dashboard_page.jpg]])  
